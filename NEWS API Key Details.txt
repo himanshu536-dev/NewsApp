@@ -1,0 +1,5 @@
+NEWS API Key Details :
+
+First Name - User
+Email - iamuser123@gmail.com
+Password - userapikey
