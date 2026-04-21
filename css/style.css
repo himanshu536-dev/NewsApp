@@ -1,0 +1,6 @@
+.bg-primary{background: linear-gradient(45deg, blue, rgb(23, 147, 196));}
+.card-source-date{display: flex;justify-content: space-between;}
+.card-source-date p{font-weight: bold;font-size: 12px;}
+.card-title{font-size: 18px;font-weight: bold;height: 50px;overflow: auto;}
+.card-title::-webkit-scrollbar{display: none;}
+.card-text{font-size: 13px;height: 100px;}
